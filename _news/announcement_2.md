@@ -1,52 +1,18 @@
-[//]: # (---)
+---
+layout: post
+title: Talk by Ty Ferré. "The Limits of Science - How Hydrogeology Is Succeeding and Failing Society and What We Can Do about It"
+date: 2023-01-16 15:25
+inline: false
+---
 
-[//]: # (layout: post)
+I am delighted to share the news that Ty Ferré, Distinguished Professor in the Department of Hydrology and Atmospheric Sciences at the University of Arizona, will be giving a public lecture at Ghent University on the 21st of February, 2023 from 2pm to 4pm.
 
-[//]: # (title: A long announcement with details)
+The lecture is entitled ‘The Limits of Science - How Hydrogeology Is Succeeding and Failing Society and What We Can Do about It’.
 
-[//]: # (date: 2015-11-07 16:11:00-0400)
+Professor Ferré will present an overview of the state of the practice in hydrogeologic analyses, highlighting exciting new efforts to improve our analyses. He will also point to why these advances are not sufficient to ensure that science is doing as much as it can to support water-resources decision-making. Finally, Professor Ferré will touch on the opportunities and challenges presented by the emergence of Machine Learning to including these concepts in hydrogeologic analyses.
 
-[//]: # (inline: false)
+Following the public lecture, there will be an open discussion and interested PhD students are invited to register in advance to plan a 1-to-1 discussion with Ty Ferré.
 
-[//]: # (---)
+Don't pass up this opportunity to hear from a renowned expert on this important and timely topic!
 
-[//]: # ()
-[//]: # (Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.)
-
-[//]: # ()
-[//]: # (***)
-
-[//]: # ()
-[//]: # (Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.)
-
-[//]: # ()
-[//]: # (#### Hipster list)
-
-[//]: # (<ul>)
-
-[//]: # (    <li>brunch</li>)
-
-[//]: # (    <li>fixie</li>)
-
-[//]: # (    <li>raybans</li>)
-
-[//]: # (    <li>messenger bag</li>)
-
-[//]: # (</ul>)
-
-[//]: # ()
-[//]: # (Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.)
-
-[//]: # ()
-[//]: # (***)
-
-[//]: # ()
-[//]: # (Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.)
-
-[//]: # ()
-[//]: # (> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.)
-
-[//]: # (> —Anais Nin)
-
-[//]: # ()
-[//]: # (Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.)
+Details of the event can be found [here](https://www.ugent.be/we/geologie/nl/actueel/nieuws/meet-the-phd-jury-the-limits-of-science).
