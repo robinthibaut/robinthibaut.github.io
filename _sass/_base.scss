@@ -386,7 +386,10 @@ footer.sticky-bottom {
     }
   }
 }
-
+// Change image size
+.post-list img {
+  max-width: 30%;
+}
 .pagination {
   .page-item {
     .page-link {
