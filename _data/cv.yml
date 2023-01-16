@@ -11,85 +11,64 @@
   contents:
     - title: PhD
       institution: Ghent University, Belgium
-      year: 2019
+      year: 2019 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - The aim of this work revolves around developing a new framework for experimental design in Earth Sciences using machine learning.
+    - title: Master's Degree
+      institution: University of Liège, Belgium
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Geological Engineering
+    - title: Bachelor's Degree
+      institution: Université Libre de Bruxelles, Belgium
+      year: 2014
+      description:
+          - Geological Sciences
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: PhD Fellow
+      institution: Laboratory of Applied Geology and Hydrogeology, Ghent University, Belgium
+      year: 2019 - Present
+
+    - title: Project Engineer
+      institution: G-tec, Belgium
+      year: 2018 - 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - I participated in marine geophysical surveys for the purpose of detecting unexploded ordnance, determining the thickness of various geological layers beneath the seabed, and mapping the bathymetry.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/robinthibaut/skbel">skbel</a>
-      year: 2019-now
-      description: Bayesian Evidential Learning in Python
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/robinthibaut/skbel">skbel</a>
+#      year: 2019-now
+#      description: Bayesian Evidential Learning in Python
+#
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items:
+#        - Nobel Prize in Physics
+#        - Matteucci Medal
+#    - year: 2029
+#      items:
+#        - Max Planck Medal
+#
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
