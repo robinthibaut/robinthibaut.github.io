@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Comparing Well and Geophysical Data for Temperature Monitoring Within a Bayesian Experimental Design Framework
-date:   2022-10-19 16:40:16
+title: Comparing Well and Geophysical Data for Temperature Monitoring Within a Bayesian Experimental Design Framework
+date: 2022-10-19 16:40
 description: Comparing Well and Geophysical Data for Temperature Monitoring Within a Bayesian Experimental Design Framework
 tags: ATES, machine learning, Bayesian experimental design, geophysical data, well data, temperature monitoring, uncertainty quantification
 categories: sample-posts
