@@ -22,9 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Fellow at Ghent University, Belgium. 
-My research focuses on developing a new framework for experimental design in earth sciences under a Bayesian approach. 
-I have experience in marine geophysical surveys, near-surface geophysics and coding. 
+I am a postdoc researcher at Ghent University, Belgium.
 My research interests include Bayesian statistics, geostatistics, image processing, data science, and machine learning. 
 I am interested in applying these methods to a variety of problems in environmental sciences and earth sciences.
 Contact me if you want to discuss a project or collaborate on one involving the application of machine learning in the geosciences.
