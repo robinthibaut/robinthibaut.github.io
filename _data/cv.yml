@@ -28,13 +28,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: Laboratory of Applied Geology and Hydrogeology, Ghent University, Belgium
+      year: Mar 2023 - May 2023
+
     - title: PhD Fellow
       institution: Laboratory of Applied Geology and Hydrogeology, Ghent University, Belgium
-      year: 2019 - 2023
+      year: Mar 2019 - Mar 2023
 
     - title: Project Engineer
       institution: G-tec, Belgium
-      year: 2018 - 2019
+      year: Mar 2018 - Jan 2019
       description:
         - I participated in marine geophysical surveys for the purpose of detecting unexploded ordnance, determining the thickness of various geological layers beneath the seabed, and mapping the bathymetry.
 
