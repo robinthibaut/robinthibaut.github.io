@@ -5,6 +5,8 @@
       value: Robin Thibaut
     - name: Languages
       value: English, French, Dutch, Vietnamese
+    - name: Location
+      value: Berkeley, CA, USA
 
 - title: Education
   type: time_table
@@ -28,6 +30,10 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: Lawrence Berkeley National Laboratory, USA
+      year: Aug 2023 - Present
+
     - title: Postdoctoral Researcher
       institution: Laboratory of Applied Geology and Hydrogeology, Ghent University, Belgium
       year: Mar 2023 - May 2023

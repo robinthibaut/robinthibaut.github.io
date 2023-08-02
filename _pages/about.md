@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ghent University, Belgium.
+subtitle: Lawrence Berkeley National Laboratory, Watershed Function Scientific Focus Area
 
 profile:
   align: right
@@ -22,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoc researcher at Ghent University, Belgium.
+I am a postdoc researcher at the Lawrence Berkeley National Laboratory in the Watershed Function Scientific Focus Area.
 My research interests include Bayesian statistics, geostatistics, image processing, data science, and machine learning. 
 I am interested in applying these methods to a variety of problems in environmental sciences and earth sciences.
 Contact me if you want to discuss a project or collaborate on one involving the application of machine learning in the geosciences.
