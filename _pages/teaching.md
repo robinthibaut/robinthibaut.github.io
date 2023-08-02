@@ -1,15 +1,15 @@
-[//]: # (---)
+---
 
-[//]: # (layout: page)
+layout: page
 
-[//]: # (permalink: /teaching/)
+permalink: /teaching/
 
-[//]: # (title: teaching)
+title: teaching
 
-[//]: # (description: Materials for courses I have taught.)
+description: Materials for workshops and courses.
 
-[//]: # (nav: true)
+nav: true
 
-[//]: # (nav_order: 5)
+nav_order: 5
 
-[//]: # (---)
+---

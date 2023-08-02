@@ -1,25 +1,25 @@
-[//]: # (---)
+---
 
-[//]: # (layout: page)
+layout: page
 
-[//]: # (title: submenus)
+title: submenus
 
-[//]: # (nav: true)
+nav: true
 
-[//]: # (nav_order: 6)
+nav_order: 6
 
-[//]: # (dropdown: true)
+dropdown: true
 
-[//]: # (children: )
+children: 
 
-[//]: # (    - title: publications)
+    - title: publications
 
-[//]: # (      permalink: /publications/)
+      permalink: /publications/
 
-[//]: # (    - title: divider)
+    - title: divider
 
-[//]: # (    - title: projects)
+    - title: projects
 
-[//]: # (      permalink: /projects/)
+      permalink: /projects/
 
-[//]: # (---)
+---
