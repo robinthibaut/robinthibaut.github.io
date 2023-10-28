@@ -8,25 +8,6 @@
     - name: Location
       value: Berkeley, CA, USA
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Doctor of Philosophy
-      institution: Ghent University, Belgium
-      year: 2019 - 2023
-      description:
-        -  Doctor of Sciences - Geology (Laboratory  for  Applied  Geology  and  Hydrogeology)
-    - title: Master's Degree
-      institution: University of Liège, Belgium
-      year: 2017
-      description:
-        - Geological Engineering
-    - title: Bachelor's Degree
-      institution: Université Libre de Bruxelles, Belgium
-      year: 2014
-      description:
-          - Geological Sciences
-
 - title: Experience
   type: time_table
   contents:
@@ -47,6 +28,26 @@
       year: Mar 2018 - Jan 2019
       description:
         - Offshore Geophysics
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Doctor of Philosophy
+      institution: Ghent University, Belgium
+      year: 2019 - 2023
+      description:
+        -  Doctor of Sciences - Geology (Laboratory  for  Applied  Geology  and  Hydrogeology)
+    - title: Master's Degree
+      institution: University of Liège, Belgium
+      year: 2017
+      description:
+        - Geological Engineering
+    - title: Bachelor's Degree
+      institution: Université Libre de Bruxelles, Belgium
+      year: 2014
+      description:
+          - Geological Sciences
+
 
 #- title: Open Source Projects
 #  type: time_table
