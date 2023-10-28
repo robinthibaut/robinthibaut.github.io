@@ -3,6 +3,7 @@ layout: post
 title: Talk by Ty Ferré. "The Limits of Science - How Hydrogeology Is Succeeding and Failing Society and What We Can Do about It"
 date: 2023-01-16 15:25
 inline: false
+related_posts: false
 ---
 
 I am delighted to share the news that Ty Ferré, Distinguished Professor in the Department of Hydrology and Atmospheric Sciences at the University of Arizona, will be giving a public lecture at Ghent University on the 21st of February, 2023 from 2pm to 4pm.
