@@ -15,6 +15,6 @@ The blend of academia, culture, and nature here is unique, and I can't wait to d
 
 
 [//]: # (Include a picture of the PhD defense here)
-<img src="/assets/img/posts/berk_pano.jpeg" alt="Berkeley Bound! 🌁" width="700"/>
+<img src="/assets/img/posts/berk_pano.jpeg" alt="Berkeley Bound" width="700"/>
 
 
