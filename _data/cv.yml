@@ -6,14 +6,18 @@
     - name: Languages
       value: English, French, Dutch, Vietnamese
     - name: Location
-      value: Berkeley, CA, USA
+      value: Salt Lake City, UT, USA
 
 - title: Experience
   type: time_table
   contents:
+    - title: Computational Geoscientist
+      institution: Zanskar Geothermal & Minerals, USA
+      year: Oct 2024 - Present
+
     - title: Postdoctoral Researcher
       institution: Lawrence Berkeley National Laboratory, USA
-      year: Aug 2023 - Present
+      year: Aug 2023 - Oct 2024
 
     - title: Postdoctoral Researcher
       institution: Laboratory of Applied Geology and Hydrogeology, Ghent University, Belgium
