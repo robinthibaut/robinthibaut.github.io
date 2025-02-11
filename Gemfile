@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
-# gem "mini_racer", "0.6.4"
-# gem "libv8-node", "16.19.0.1", git: "https://github.com/rubyjs/libv8-node.git", branch: "v16.19.0.1"
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
