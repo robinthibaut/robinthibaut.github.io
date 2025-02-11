@@ -26,7 +26,7 @@ social: true  # includes social icons at the bottom of the page
 🔍 Passionate about applying **Machine Learning** to **Earth Sciences**  
 📊 Data enthusiast driven by **Python programming** and **AI innovations** in geospatial data
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:robin.thibaut@ugent.be) [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue.svg)](https://robinthibaut.github.io/) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20beff)](https://www.kaggle.com/robustus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/robin-thibaut/)  
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:robin.thibaut@icloud.com) [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue.svg)](https://robinthibaut.github.io/) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20beff)](https://www.kaggle.com/robustus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/robin-thibaut/)  
 
 *Let’s connect if you’re exploring AI-driven solutions in geoscience or seeking collaboration on innovative projects!*
 
@@ -38,7 +38,7 @@ I am a Computational Geoscientist exploring the intersection of **Machine Learni
 
 ---
 
-### 📚 **Latest Publications**
+### 📚 **Highlighted Publications**
 
 - **[Comparing Well and Geophysical Data for Temperature Monitoring](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033045)**  
   Published in Water Resources Research | [DOI: 10.1029/2022WR033045](https://doi.org/10.1029/2022WR033045)
