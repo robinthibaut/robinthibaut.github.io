@@ -207,7 +207,6 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-archives
-  - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -409,3 +408,9 @@ medium_zoom:
 #  - languages
 #  - interests
 #  - references
+
+# -----------------------------------------------------------------------------
+# Third party libraries
+# -----------------------------------------------------------------------------
+
+third_party_libraries: {}
