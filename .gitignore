@@ -9,4 +9,6 @@ _site
 .idea/*
 Gemfile.lock
 vendor
+CLAUDE.md
+CV_INSTRUCTIONS.md
 
