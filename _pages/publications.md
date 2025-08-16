@@ -5,11 +5,17 @@ title: publications
 description: Latest publications.
 years: [2023, 2022, 2021]
 nav: true
-nav_order: 1
+nav_order: 2
 ---
+
 <!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography %}
 
 </div>
