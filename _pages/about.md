@@ -22,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-🌎 **Computational Geoscientist** | 🔬 **Bayesian Uncertainty Quantification** | 🤖 **Physics-informed ML**
+**Computational Geoscientist** | **Bayesian Uncertainty Quantification** | **Physics-informed ML**
 
 Computational geoscientist specializing in **Bayesian uncertainty quantification** and **physics-informed ML** for geothermal systems. I develop **finite-element thermal simulation–calibrated, Python-first workflows** that fuse well, geophysical, and hydrologic data for subsurface characterization and **quantified uncertainty** analysis.
 
@@ -30,17 +30,17 @@ Computational geoscientist specializing in **Bayesian uncertainty quantification
 
 ---
 
-### 🔬 **Professional Summary**
+### **Professional Summary**
 
-**Author** of peer-reviewed work in *Water Resources Research* and *Journal of Hydrology*  
-**Creator** of *SKBEL* (Bayesian Evidential Learning framework)  
-**Peer reviewer** for *Water Resources Research*, *Geophysical Research Letters*, *Geophysics*, and *Geophysical Journal International*
+Computational geoscientist working in **geothermal energy** with focus on **Bayesian uncertainty quantification** and **physics-informed ML**. I develop Python workflows that combine thermal modeling with machine learning for subsurface characterization.
 
-Currently working in **geothermal energy**, I focus on **thermal modeling** and **machine learning workflows** for subsurface characterization. My work involves **calibrating 3D thermal models** to field data and developing **data-driven approaches** for uncertainty quantification in geothermal systems.
+**Author** of peer-reviewed publications in *Water Resources Research* and *Journal of Hydrology*  
+**Creator** of the SKBEL (Bayesian Evidential Learning) framework  
+**Peer reviewer** for major geoscience journals
 
 ---
 
-### 💼 **Core Expertise**
+### **Core Expertise**
 
 **Programming & ML:** Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow), Uncertainty Quantification (Bayesian, BEL), Experimental Design, Physics-informed ML, Time-series/Spatial Modeling
 
@@ -50,7 +50,7 @@ Currently working in **geothermal energy**, I focus on **thermal modeling** and 
 
 ---
 
-### 📚 **Highlighted Publications**
+### **Highlighted Publications**
 
 - **[Comparing Well and Geophysical Data for Temperature Monitoring](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033045)**  
   Published in Water Resources Research | [DOI: 10.1029/2022WR033045](https://doi.org/10.1029/2022WR033045)
@@ -63,7 +63,7 @@ Currently working in **geothermal energy**, I focus on **thermal modeling** and 
 
 ---
 
-### 🧰 **Open Source Software & Resources**
+### **Open Source Software & Resources**
 
 **Software Packages:**
 - **[SKBEL](https://github.com/robinthibaut/skbel)** - Bayesian Evidential Learning framework | [DOI: 10.5281/zenodo.6205242](https://doi.org/10.5281/zenodo.6205242)
@@ -76,7 +76,7 @@ Currently working in **geothermal energy**, I focus on **thermal modeling** and 
 
 ---
 
-### 📝 **Featured Blog Posts**
+### **Featured Blog Posts**
 
 - [The Importance of Python for Geoscientists](https://medium.com/@robin.thibaut/the-importance-of-python-for-geoscientists-28b68620ad45)  
 - [Why the Rainbow Color Map is Problematic](https://medium.com/@robin.thibaut/why-the-rainbow-color-map-is-problematic-23293d0937d5)  
@@ -84,14 +84,14 @@ Currently working in **geothermal energy**, I focus on **thermal modeling** and 
 
 ---
 
-### 📊 **GitHub Stats**
+### **GitHub Stats**
 
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinthibaut&layout=compact&theme=radical)
 
 ---
 
-### 🤝 **Connect & Collaborate**
+### **Connect & Collaborate**
 
 - **ResearchGate**: [Robin Thibaut](https://www.researchgate.net/profile/Robin_Thibaut)  
 - **Stack Overflow**: [Profile](https://stackoverflow.com/users/13371578/robin-thibaut)  

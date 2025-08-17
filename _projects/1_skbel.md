@@ -47,7 +47,3 @@ This work has resulted in peer-reviewed publications in:
 **GitHub**: [github.com/robinthibaut/skbel](https://github.com/robinthibaut/skbel)  
 **DOI**: [10.5281/zenodo.6205242](https://doi.org/10.5281/zenodo.6205242)  
 **Documentation**: Available in the repository
-
----
-
-*SKBEL represents a significant contribution to the geosciences community by making advanced Bayesian experimental design accessible through a user-friendly Python interface.*
