@@ -22,27 +22,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Computational Geoscientist** | **Bayesian Uncertainty Quantification** | **Physics-informed ML**
+**Computational Geoscientist** | **Bayesian Uncertainty Quantification** | **ML/AI**
 
-Computational geoscientist specializing in **Bayesian uncertainty quantification** and **physics-informed ML** for geothermal systems. I develop **finite-element thermal simulation–calibrated, Python-first workflows** that fuse well, geophysical, and hydrologic data for subsurface characterization and **quantified uncertainty** analysis.
+Computational geoscientist specializing in **Bayesian uncertainty quantification** and **ML** for geothermal systems. I develop **finite-element thermal simulation–calibrated, Python-first workflows** that fuse well, geophysical, and hydrologic data for subsurface characterization and **quantified uncertainty** analysis.
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:robin.thibaut@icloud.com) [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue.svg)](https://robinthibaut.github.io/) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20beff)](https://www.kaggle.com/robustus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/robin-thibaut/) [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7556--2700-green)](https://orcid.org/0000-0001-7556-2700)
 
 ---
 
-### **Professional Summary**
-
-Computational geoscientist working in **geothermal energy** with focus on **Bayesian uncertainty quantification** and **physics-informed ML**. I develop Python workflows that combine thermal modeling with machine learning for subsurface characterization.
-
-**Author** of peer-reviewed publications in *Water Resources Research* and *Journal of Hydrology*  
-**Creator** of the SKBEL (Bayesian Evidential Learning) framework  
-**Peer reviewer** for major geoscience journals
-
----
-
 ### **Core Expertise**
 
-**Programming & ML:** Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow), Uncertainty Quantification (Bayesian, BEL), Experimental Design, Physics-informed ML, Time-series/Spatial Modeling
+**Programming & ML:** Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow), Uncertainty Quantification (Bayesian, BEL), Experimental Design, ML/AI, Time-series/Spatial Modeling
 
 **Geoscience Modeling:** Finite element thermal simulation, MODFLOW, MT3DMS, MODPATH, ModelMuse, CRTOMO, RES2DINV, SGEMS, Geophysical Data Integration (ERT/IP), Hydrologic/Groundwater Modeling
 
