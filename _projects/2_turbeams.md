@@ -2,7 +2,6 @@
 layout: page
 title: TURBEAMS
 description: 3D turbidity mapping using multibeam sonar and deep learning
-img: assets/img/publication_preview/water.jpg
 importance: 2
 category: research
 ---
