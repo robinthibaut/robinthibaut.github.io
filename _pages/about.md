@@ -22,23 +22,25 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-🌎 **Computational Geoscientist**  
-🔍 Passionate about applying **Machine Learning** to **Earth Sciences**  
-📊 Data enthusiast driven by **Python programming** and **AI innovations** in geospatial data
+**Computational Geoscientist** | **Bayesian Uncertainty Quantification** | **ML/AI**
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:robin.thibaut@icloud.com) [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue.svg)](https://robinthibaut.github.io/) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20beff)](https://www.kaggle.com/robustus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/robin-thibaut/)  
+Computational geoscientist specializing in **Bayesian uncertainty quantification** and experimental design for geothermal systems. Build **Python workflows** that fuse **finite-element thermal simulation**, geophysics, and well data to **optimize drilling decisions with quantified risk**. Publications in *Water Resources Research* and *Journal of Hydrology*; creator of the open-source **SKBEL** framework for Bayesian Evidential Learning.
 
-*Let’s connect if you’re exploring AI-driven solutions in geoscience or seeking collaboration on innovative projects!*
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:robin.thibaut@icloud.com) [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue.svg)](https://robinthibaut.github.io/) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20beff)](https://www.kaggle.com/robustus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/robin-thibaut/) [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7556--2700-green)](https://orcid.org/0000-0001-7556-2700)
 
 ---
 
-### 🔍 **About Me**
+### **Core Expertise**
 
-I am a Computational Geoscientist exploring the intersection of **Machine Learning** and **Earth Sciences**. With a background in **data science** and **experimental design**, my focus is on extracting actionable insights from complex geospatial data. My work involves developing models that not only enhance our understanding of Earth's processes but also aid in sustainable resource management and environmental protection.
+**Programming & ML:** Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow), Uncertainty Quantification (Bayesian, BEL), Experimental Design, Physics-informed ML, Time-series & Spatial Modeling
+
+**Geoscience Modeling:** Finite-element thermal simulation, MODFLOW, MT3DMS, MODPATH, ModelMuse, CRTOMO, RES2DINV, SGeMS, Geophysical Data Integration (ERT/IP), Hydrologic & Groundwater Modeling
+
+**Data & Engineering:** SQL, Snowflake, Git, ETL/Data Engineering, Cloud (Google Cloud Platform), CI/CD, Scientific Visualization, Linux/macOS/Windows
 
 ---
 
-### 📚 **Highlighted Publications**
+### **Highlighted Publications**
 
 - **[Comparing Well and Geophysical Data for Temperature Monitoring](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033045)**  
   Published in Water Resources Research | [DOI: 10.1029/2022WR033045](https://doi.org/10.1029/2022WR033045)
@@ -51,14 +53,22 @@ I am a Computational Geoscientist exploring the intersection of **Machine Learni
 
 ---
 
-### 🧰 **Open Source Projects & Resources**
+### **Open Source Software & Resources**
 
-- **Project Templates:** [Python Scientific Project Template](https://github.com/robinthibaut/project_template)  
-- **Geothermal Dataset:** [Wellhead Protection Area Prediction Dataset](https://www.kaggle.com/datasets/robustus/whpa-prediction)
+**Software Packages:**
+- **[SKBEL](https://github.com/robinthibaut/skbel)** - Bayesian Evidential Learning framework | [DOI: 10.5281/zenodo.6205242](https://doi.org/10.5281/zenodo.6205242)
+- **[MGS-public](https://github.com/robinthibaut/MGS-public)** - Minimum Gradient Support inversion for resistivity/IP data
+- **[pysgems](https://github.com/robinthibaut/pysgems)** - Use SGeMS (Stanford Geostatistical Modeling Software) within Python | [DOI: 10.5281/zenodo.4773587](https://doi.org/10.5281/zenodo.4773587)
+- **[Python Scientific Project Template](https://github.com/robinthibaut/project_template)** - Standardized structure for scientific Python projects
+
+**Datasets:**
+- **[Zanskar's GeoGym](https://www.kaggle.com/datasets/robinthibautzanskar/zanskars-geogym)** - Benchmark dataset for evaluating geothermal exploration strategies
+- **[4D ERT Monitoring Dataset](https://www.kaggle.com/datasets/robustus/4d-ert-monitoring)** - Temperature monitoring with geophysical data
+- **[Wellhead Protection Area Prediction Dataset](https://www.kaggle.com/datasets/robustus/whpa-prediction)** - Groundwater modeling and protection
 
 ---
 
-### 📝 **Featured Blog Posts**
+### **Featured Blog Posts**
 
 - [The Importance of Python for Geoscientists](https://medium.com/@robin.thibaut/the-importance-of-python-for-geoscientists-28b68620ad45)  
 - [Why the Rainbow Color Map is Problematic](https://medium.com/@robin.thibaut/why-the-rainbow-color-map-is-problematic-23293d0937d5)  
@@ -66,14 +76,14 @@ I am a Computational Geoscientist exploring the intersection of **Machine Learni
 
 ---
 
-### 📊 **GitHub Stats**
+### **GitHub Stats**
 
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinthibaut&layout=compact&theme=radical)
 
 ---
 
-### 🤝 **Connect & Collaborate**
+### **Connect & Collaborate**
 
 - **ResearchGate**: [Robin Thibaut](https://www.researchgate.net/profile/Robin_Thibaut)  
 - **Stack Overflow**: [Profile](https://stackoverflow.com/users/13371578/robin-thibaut)  
