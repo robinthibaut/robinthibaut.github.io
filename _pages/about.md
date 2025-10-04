@@ -26,30 +26,42 @@ social: true  # includes social icons at the bottom of the page
 
 Computational geoscientist specializing in **Bayesian uncertainty quantification** and experimental design for geothermal systems. Build **Python workflows** that fuse **finite-element thermal simulation**, geophysics, and well data to **optimize drilling decisions with quantified risk**. Publications in *Water Resources Research* and *Journal of Hydrology*; creator of the open-source **SKBEL** framework for Bayesian Evidential Learning.
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:robin.thibaut@icloud.com) [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue.svg)](https://robinthibaut.github.io/) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20beff)](https://www.kaggle.com/robustus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/robin-thibaut/) [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7556--2700-green)](https://orcid.org/0000-0001-7556-2700)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:robin.thibaut@icloud.com)
 
 ---
 
 ### **Core Expertise**
 
-**Programming & ML:** Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow), Uncertainty Quantification (Bayesian, BEL), Experimental Design, Physics-informed ML, Time-series & Spatial Modeling
+**Programming & ML:**
+- Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow)
+- Uncertainty Quantification (Bayesian, BEL)
+- Experimental Design & Physics-informed ML
+- Time-series & Spatial Modeling
 
-**Geoscience Modeling:** Finite-element thermal simulation, MODFLOW, MT3DMS, MODPATH, ModelMuse, CRTOMO, RES2DINV, SGeMS, Geophysical Data Integration (ERT/IP), Hydrologic & Groundwater Modeling
+**Geoscience Modeling:**
+- Finite-element thermal simulation
+- MODFLOW, MT3DMS, MODPATH, ModelMuse
+- Geophysical Data Integration (CRTOMO, RES2DINV, ERT/IP)
+- SGeMs, Hydrologic & Groundwater Modeling
 
-**Data & Engineering:** SQL, Snowflake, Git, ETL/Data Engineering, Cloud (Google Cloud Platform), CI/CD, Scientific Visualization, Linux/macOS/Windows
+**Data & Engineering:**
+- SQL, Snowflake, Git, ETL/Data Engineering
+- Cloud (Google Cloud Platform), CI/CD
+- Scientific Visualization
+- Linux/macOS/Windows
 
 ---
 
 ### **Highlighted Publications**
 
-- **[Comparing Well and Geophysical Data for Temperature Monitoring](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033045)**  
-  Published in Water Resources Research | [DOI: 10.1029/2022WR033045](https://doi.org/10.1029/2022WR033045)
+- **[Efficiency and Heat Transport Processes of Low-Temperature ATES Systems](https://doi.org/10.1186/s40517-024-00310-0)**
+  Published in Geothermal Energy (2025) | Open Access | [DOI: 10.1186/s40517-024-00310-0](https://doi.org/10.1186/s40517-024-00310-0)
 
-- **[A Framework for Bayesian Experimental Design in Environmental Geosciences](https://www.sciencedirect.com/science/article/pii/S0022169421009537)**  
-  Published in Journal of Hydrology | [DOI: 10.1016/j.jhydrol.2021.126903](https://doi.org/10.1016/j.jhydrol.2021.126903) | Repo: [skbel](https://github.com/robinthibaut/skbel)
+- **[Comparing Well and Geophysical Data for Temperature Monitoring](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033045)**
+  Published in Water Resources Research (2023) | [DOI: 10.1029/2022WR033045](https://doi.org/10.1029/2022WR033045)
 
-- **[Minimum Gradient Support Inversion for Resistivity/IP Data](https://www.sciencedirect.com/science/article/pii/S0926985121000331#f0005)**  
-  Published in Journal of Applied Geophysics | [DOI: 10.1016/j.jappgeo.2021.104286](https://doi.org/10.1016/j.jappgeo.2021.104286) | Repo: [MGS-public](https://github.com/robinthibaut/MGS-public)
+- **[A Framework for Bayesian Experimental Design in Environmental Geosciences](https://www.sciencedirect.com/science/article/pii/S0022169421009537)**
+  Published in Journal of Hydrology (2021) | [DOI: 10.1016/j.jhydrol.2021.126903](https://doi.org/10.1016/j.jhydrol.2021.126903) | Repo: [skbel](https://github.com/robinthibaut/skbel)
 
 ---
 
