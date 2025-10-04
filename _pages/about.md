@@ -80,7 +80,13 @@ Computational geoscientist specializing in **Bayesian uncertainty quantification
 
 ### **Featured Blog Posts**
 
-- [The Importance of Python for Geoscientists](https://medium.com/@robin.thibaut/the-importance-of-python-for-geoscientists-28b68620ad45)  
-- [Why the Rainbow Color Map is Problematic](https://medium.com/@robin.thibaut/why-the-rainbow-color-map-is-problematic-23293d0937d5)  
-- [A Gentle Introduction to Python with PyCharm](https://medium.com/@robin.thibaut/a-gentle-introduction-to-python-with-pycharm-367f6b73364a)  
+- [The Importance of Python for Geoscientists](https://medium.com/@robin.thibaut/the-importance-of-python-for-geoscientists-28b68620ad45)
+- [Why the Rainbow Color Map is Problematic](https://medium.com/@robin.thibaut/why-the-rainbow-color-map-is-problematic-23293d0937d5)
+- [A Gentle Introduction to Python with PyCharm](https://medium.com/@robin.thibaut/a-gentle-introduction-to-python-with-pycharm-367f6b73364a)
 
+---
+
+### **GitHub Stats**
+
+![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinthibaut&layout=compact&theme=radical)
