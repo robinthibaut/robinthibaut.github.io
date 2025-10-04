@@ -54,14 +54,14 @@ Computational geoscientist specializing in **Bayesian uncertainty quantification
 
 ### **Highlighted Publications**
 
-- **[Efficiency and Heat Transport Processes of Low-Temperature ATES Systems](https://doi.org/10.1186/s40517-024-00310-0)**
-  Published in Geothermal Energy (2025) | Open Access | [DOI: 10.1186/s40517-024-00310-0](https://doi.org/10.1186/s40517-024-00310-0)
-
-- **[Comparing Well and Geophysical Data for Temperature Monitoring](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR033045)**
-  Published in Water Resources Research (2023) | [DOI: 10.1029/2022WR033045](https://doi.org/10.1029/2022WR033045)
+- **[Comparing Well and Geophysical Data for Temperature Monitoring](https://onlinelibrary.wiley.com/doi/10.1029/2022WR033045)**
+  **First Author** | Water Resources Research (2022) | [DOI: 10.1029/2022WR033045](https://doi.org/10.1029/2022WR033045)
 
 - **[A Framework for Bayesian Experimental Design in Environmental Geosciences](https://www.sciencedirect.com/science/article/pii/S0022169421009537)**
-  Published in Journal of Hydrology (2021) | [DOI: 10.1016/j.jhydrol.2021.126903](https://doi.org/10.1016/j.jhydrol.2021.126903) | Repo: [skbel](https://github.com/robinthibaut/skbel)
+  **First Author** | Journal of Hydrology (2021) | [DOI: 10.1016/j.jhydrol.2021.126903](https://doi.org/10.1016/j.jhydrol.2021.126903) | Repo: [skbel](https://github.com/robinthibaut/skbel)
+
+- **[Minimum Gradient Support Inversion for Resistivity/IP Data](https://www.sciencedirect.com/science/article/pii/S0926985121000331)**
+  **First Author** | Journal of Applied Geophysics (2021) | [DOI: 10.1016/j.jappgeo.2021.104286](https://doi.org/10.1016/j.jappgeo.2021.104286) | Repo: [MGS-public](https://github.com/robinthibaut/MGS-public)
 
 ---
 
