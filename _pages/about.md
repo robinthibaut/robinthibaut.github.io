@@ -22,11 +22,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Computational Geoscientist** | **Bayesian Uncertainty Quantification** | **ML/AI**
+Computational geoscientist specializing in **Bayesian uncertainty quantification** for geothermal exploration. Develop **Python-first workflows** that integrate thermal simulation, geophysics, and well data to **optimize drilling targets** and quantify resource uncertainty.
 
-Computational geoscientist specializing in **Bayesian uncertainty quantification** and experimental design for geothermal systems. Build **Python workflows** that fuse **finite-element thermal simulation**, geophysics, and well data to **optimize drilling decisions with quantified risk**. Publications in *Water Resources Research* and *Journal of Hydrology*; creator of the open-source **SKBEL** framework for Bayesian Evidential Learning.
-
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:robin.thibaut@icloud.com)
+**Research Focus:** Experimental design · Physics-informed ML · Subsurface characterization
 
 ---
 
@@ -86,21 +84,3 @@ Computational geoscientist specializing in **Bayesian uncertainty quantification
 - [Why the Rainbow Color Map is Problematic](https://medium.com/@robin.thibaut/why-the-rainbow-color-map-is-problematic-23293d0937d5)  
 - [A Gentle Introduction to Python with PyCharm](https://medium.com/@robin.thibaut/a-gentle-introduction-to-python-with-pycharm-367f6b73364a)  
 
----
-
-### **GitHub Stats**
-
-![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinthibaut&layout=compact&theme=radical)
-
----
-
-### **Connect & Collaborate**
-
-- **ResearchGate**: [Robin Thibaut](https://www.researchgate.net/profile/Robin_Thibaut)  
-- **Stack Overflow**: [Profile](https://stackoverflow.com/users/13371578/robin-thibaut)  
-- **Twitter**: [@RobinThibaut](https://twitter.com/RobinThibaut)  
-- **Researcher Profile**: [Web of Science](https://www.webofscience.com/wos/author/record/GQP-0336-2022) 
-- **ORCID**: [ORCID](https://orcid.org/0000-0001-7556-2700)  
-
----
