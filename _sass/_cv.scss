@@ -8,6 +8,10 @@ div.container-link-button {
 
 table.table-cv {
   background-color: transparent !important;
+
+  td {
+    color: var(--global-text-color) !important;
+  }
 }
 
 a.btncv {
