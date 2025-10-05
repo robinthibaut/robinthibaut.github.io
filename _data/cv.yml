@@ -3,10 +3,6 @@
   contents:
     - name: Full Name
       value: Robin Thibaut, PhD
-    - name: Email
-      value: robin.thibaut@icloud.com
-    - name: Website
-      value: robinthibaut.github.io
     - name: ORCID
       value: 0000-0001-7556-2700
     - name: Languages
@@ -171,9 +167,3 @@
       description:
         - Mathematics and Physics for university students
 
-- title: Affiliations
-  type: list
-  contents:
-    - International Association of Hydrogeologists (IAH)
-    - American Geophysical Union (AGU)
-    - International Association for Mathematical Geosciences (IAMG)
