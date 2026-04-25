@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computational Geoscientist @ Zanskar Geothermal & Minerals
+subtitle: Senior Computational Geoscientist @ Zanskar Geothermal & Minerals
 
 profile:
   align: right

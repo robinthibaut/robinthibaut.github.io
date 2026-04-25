@@ -37,12 +37,12 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Computational Geoscientist
+    - title: Senior Computational Geoscientist
       institution: Zanskar Geothermal & Minerals, USA
       year: Oct 2024 - Present
       description:
         - Prioritize drilling targets by fusing finite-element thermal simulations with ML ranking to reduce prospect uncertainty and raise decision confidence
-        - Optimize well placement via multi-objective search (thermal drawdown, flow, risk) and data-driven experimental design; deliver prioritized drilling recommendations with techno-economic screening
+        - Design drilling target prioritization via acquisition-function-based ranking (success rate, expected improvement, upper confidence bound) over probabilistic subsurface temperature forecasts; deliver prioritized drilling recommendations with integrated techno-economic screening
         - Calibrate 3D finite-element thermal models to well logs and geophysics; history match field observations and produce P10/P50/P90 temperature/flow forecasts for decision support
         - Technical lead for the geothermal modeling codebase&#58; own internal repositories, establish code review, unit tests, and CI/CD; manage releases to ensure reproducible modeling across teams
         - Operationalize data flows (Python, SQL/Snowflake, Git, GCP) with versioned ETL for site and simulation data, standardizing provenance and enabling dependable reruns
