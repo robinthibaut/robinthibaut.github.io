@@ -8,6 +8,8 @@ profile:
   align: right
   image: robin.jpeg
   image_circular: false # crops the image to make it circular
+  more_info: >
+    <p><a href="/assets/pdf/cv.pdf" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf"></i> Download CV (PDF)</a></p>
 
 [//]: # (  address: >)
 
