@@ -1,21 +1,23 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Latest publications.
-years: [2025, 2024, 2023, 2022, 2021]
+title: Publications
 nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+<div class="publications" markdown="1">
 
-<!-- Bibsearch Feature -->
+## Journal Articles
 
-{% include bib_search.liquid %}
+{% bibliography --query @article %}
 
-<div class="publications">
+## Dissertation
 
-{% bibliography %}
+{% bibliography --query @phdthesis %}
+
+## Datasets
+
+{% bibliography --query @misc %}
 
 </div>

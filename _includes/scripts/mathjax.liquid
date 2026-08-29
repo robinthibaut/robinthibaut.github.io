@@ -1,4 +1,4 @@
-{% if site.enable_math %}
+{% if site.enable_math and site.third_party_libraries.mathjax.url.js %}
   {% unless page.pseudocode %}
     <!-- MathJax -->
     <script type="text/javascript">
@@ -16,10 +16,12 @@
       integrity="{{ site.third_party_libraries.mathjax.integrity.js }}"
       crossorigin="anonymous"
     ></script>
-    <script
-      defer
-      src="{{ site.third_party_libraries.polyfill.url.js }}"
-      crossorigin="anonymous"
-    ></script>
+    {% if site.third_party_libraries.polyfill.url.js %}
+      <script
+        defer
+        src="{{ site.third_party_libraries.polyfill.url.js }}"
+        crossorigin="anonymous"
+      ></script>
+    {% endif %}
   {% endunless %}
 {% endif %}

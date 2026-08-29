@@ -187,6 +187,27 @@ pagination:
 
     {% endfor %}
 
+    {% assign external_posts = site.posts | where_exp: "post", "post.external_source" %}
+    {% if external_posts.size == 0 %}
+      <!-- Static fallback for the public Medium items when the RSS source is unavailable. -->
+      <li>
+        <h3><a class="post-title" href="https://medium.com/data-science/principal-component-analysis-from-the-ground-up-with-python-754399f88923" target="_blank" rel="external nofollow noopener">Principal Component Analysis from the ground up with Python</a></h3>
+        <p class="post-meta">May 03, 2022 &nbsp; &middot; &nbsp; medium.com</p>
+      </li>
+      <li>
+        <h3><a class="post-title" href="https://python.plainenglish.io/a-gentle-introduction-to-python-with-pycharm-367f6b73364a" target="_blank" rel="external nofollow noopener">A Gentle Introduction to Python with PyCharm</a></h3>
+        <p class="post-meta">May 01, 2022 &nbsp; &middot; &nbsp; medium.com</p>
+      </li>
+      <li>
+        <h3><a class="post-title" href="https://medium.com/data-science/why-the-rainbow-color-map-is-problematic-23293d0937d5" target="_blank" rel="external nofollow noopener">Why the Rainbow Color Map is Problematic</a></h3>
+        <p class="post-meta">November 06, 2021 &nbsp; &middot; &nbsp; medium.com</p>
+      </li>
+      <li>
+        <h3><a class="post-title" href="https://python.plainenglish.io/the-importance-of-python-for-geoscientists-28b68620ad45" target="_blank" rel="external nofollow noopener">The Importance of Python for Geoscientists</a></h3>
+        <p class="post-meta">November 06, 2021 &nbsp; &middot; &nbsp; medium.com</p>
+      </li>
+    {% endif %}
+
   </ul>
 
 {% if page.pagination.enabled %}

@@ -2,93 +2,71 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Computational Geoscientist @ Zanskar Geothermal & Minerals
+subtitle: Head of Agentic Systems R&D at Zanskar
 
 profile:
   align: right
   image: robin.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p><a href="/assets/pdf/cv.pdf" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf"></i> Download CV (PDF)</a></p>
+    <p><a href="/assets/pdf/cv.pdf">Curriculum vitae (PDF)</a></p>
 
-[//]: # (  address: >)
-
-[//]: # (    <p>555 your office number</p>)
-
-[//]: # (    <p>123 your address street</p>)
-
-[//]: # (    <p>Your City, State 12345</p>)
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true
+selected_papers: false
+social: true
 ---
 
-Computational geoscientist specializing in **Bayesian uncertainty quantification** for geothermal exploration. Develop **Python-first workflows** that integrate thermal simulation, geophysics, and well data to **optimize drilling targets** and quantify resource uncertainty.
+As Head of Agentic Systems R&amp;D at Zanskar, I lead research on durable AI agent
+systems for long-running scientific, technical, and operational work. My
+earlier work was in computational geoscience, spanning geothermal exploration,
+hydrologic modeling, geophysical methods, scientific software, field evidence,
+and uncertainty.
 
-**Research Focus:** Experimental design · Physics-informed ML · Subsurface characterization
+## Core Expertise
 
----
+Agent systems and evaluation · Geothermal exploration · Hydrogeological and
+geophysical modeling · Bayesian and machine-learning methods for uncertainty ·
+Scientific software and reproducible field data
 
-### **Core Expertise**
+## Selected publications
 
-**Programming & ML:**
-- Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow)
-- Uncertainty Quantification (Bayesian, BEL)
-- Experimental Design & Physics-informed ML
-- Time-series & Spatial Modeling
+A selection; the full list is on the publications page.
 
-**Geoscience Modeling:**
-- Finite-element thermal simulation
-- MODFLOW, MT3DMS, MODPATH, ModelMuse
-- Geophysical Data Integration (CRTOMO, RES2DINV, ERT/IP)
-- SGeMs, Hydrologic & Groundwater Modeling
+{% include selected_papers.liquid %}
 
-**Data & Engineering:**
-- SQL, Snowflake, Git, ETL/Data Engineering
-- Cloud (Google Cloud Platform), CI/CD
-- Scientific Visualization
-- Linux/macOS/Windows
+<p><a href="/publications/">All publications →</a></p>
 
----
+## Open Source Software &amp; Resources
 
-### **Highlighted Publications**
+Software and resources from my geoscience research.
 
-- **[Comparing Well and Geophysical Data for Temperature Monitoring](https://onlinelibrary.wiley.com/doi/10.1029/2022WR033045)**
-  **First Author** | Water Resources Research (2022) | [DOI: 10.1029/2022WR033045](https://doi.org/10.1029/2022WR033045)
+- **[SKBEL](https://github.com/robinthibaut/skbel)** — Bayesian Evidential Learning framework — **Historical**
+- **[MGS-public](https://github.com/robinthibaut/MGS-public)** — Minimum Gradient Support inversion for resistivity/IP data
+- **[pysgems](https://github.com/robinthibaut/pysgems)** — Use SGeMS (Stanford Geostatistical Modeling Software) within Python — **Deprecated**
+- **[Python Scientific Project Template](https://github.com/robinthibaut/project_template)** — Standardized structure for scientific Python projects
 
-- **[A Framework for Bayesian Experimental Design in Environmental Geosciences](https://www.sciencedirect.com/science/article/pii/S0022169421009537)**
-  **First Author** | Journal of Hydrology (2021) | [DOI: 10.1016/j.jhydrol.2021.126903](https://doi.org/10.1016/j.jhydrol.2021.126903) | Repo: [skbel](https://github.com/robinthibaut/skbel)
+## Datasets
 
-- **[Minimum Gradient Support Inversion for Resistivity/IP Data](https://www.sciencedirect.com/science/article/pii/S0926985121000331)**
-  **First Author** | Journal of Applied Geophysics (2021) | [DOI: 10.1016/j.jappgeo.2021.104286](https://doi.org/10.1016/j.jappgeo.2021.104286) | Repo: [MGS-public](https://github.com/robinthibaut/MGS-public)
+Public datasets and field-data packages.
 
----
+- **[Lightning Dock Geothermal Field Data Package](https://gdr.openei.org/submissions/1856)** — 2026, Geothermal Data Repository
+- **[Zanskar's GeoGym](https://www.kaggle.com/datasets/robinthibautzanskar/zanskars-geogym)** — Benchmark dataset for evaluating geothermal exploration strategies
+- **[4D ERT Monitoring Dataset](https://www.kaggle.com/datasets/robustus/4d-ert-monitoring)** — Temperature monitoring with geophysical data
+- **[Wellhead Protection Area Prediction Dataset](https://www.kaggle.com/datasets/robustus/whpa-prediction)** — Groundwater modeling and protection
 
-### **Open Source Software & Resources**
+## Writing
 
-**Software Packages:**
-- **[SKBEL](https://github.com/robinthibaut/skbel)** - Bayesian Evidential Learning framework | [DOI: 10.5281/zenodo.6205242](https://doi.org/10.5281/zenodo.6205242)
-- **[MGS-public](https://github.com/robinthibaut/MGS-public)** - Minimum Gradient Support inversion for resistivity/IP data
-- **[pysgems](https://github.com/robinthibaut/pysgems)** - Use SGeMS (Stanford Geostatistical Modeling Software) within Python | [DOI: 10.5281/zenodo.4773587](https://doi.org/10.5281/zenodo.4773587)
-- **[Python Scientific Project Template](https://github.com/robinthibaut/project_template)** - Standardized structure for scientific Python projects
+Essays, tutorials, and research notes.
 
-**Datasets:**
-- **[Zanskar's GeoGym](https://www.kaggle.com/datasets/robinthibautzanskar/zanskars-geogym)** - Benchmark dataset for evaluating geothermal exploration strategies
-- **[4D ERT Monitoring Dataset](https://www.kaggle.com/datasets/robustus/4d-ert-monitoring)** - Temperature monitoring with geophysical data
-- **[Wellhead Protection Area Prediction Dataset](https://www.kaggle.com/datasets/robustus/whpa-prediction)** - Groundwater modeling and protection
+- [Comparing Well and Geophysical Data for Temperature Monitoring Within a Bayesian Experimental Design Framework](/blog/2022/paper-wrr1/) — October 19, 2022
+- [Principal Component Analysis from the ground up with Python](https://medium.com/data-science/principal-component-analysis-from-the-ground-up-with-python-754399f88923) — May 03, 2022
+- [A Gentle Introduction to Python with PyCharm](https://python.plainenglish.io/a-gentle-introduction-to-python-with-pycharm-367f6b73364a) — May 01, 2022
 
----
+<p><a href="/blog/">All posts →</a></p>
 
-### **Featured Blog Posts**
+## GitHub Stats
 
-- [The Importance of Python for Geoscientists](https://medium.com/@robin.thibaut/the-importance-of-python-for-geoscientists-28b68620ad45)
-- [Why the Rainbow Color Map is Problematic](https://medium.com/@robin.thibaut/why-the-rainbow-color-map-is-problematic-23293d0937d5)
-- [A Gentle Introduction to Python with PyCharm](https://medium.com/@robin.thibaut/a-gentle-introduction-to-python-with-pycharm-367f6b73364a)
+<img src="https://github-readme-stats.vercel.app/api?username=robinthibaut&amp;show_icons=true&amp;theme=radical&amp;hide_rank=true" alt="Robin's GitHub stats" onerror="this.remove()">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinthibaut&amp;layout=compact&amp;theme=radical" alt="Top Languages" onerror="this.remove()">
 
----
-
-### **GitHub Stats**
-
-![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinthibaut&show_icons=true&theme=radical&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinthibaut&layout=compact&theme=radical)
+<p><a href="https://github.com/robinthibaut">View GitHub profile</a></p>

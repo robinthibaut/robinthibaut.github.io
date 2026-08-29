@@ -37,16 +37,20 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Head of Agentic Systems R&D
+      institution: Zanskar Geothermal & Minerals, USA
+      year: Aug 2026 - Present
+      description:
+        - Lead research and development on agent systems for long-running scientific, technical, and operational work
+        - Scope: problem decomposition, tool and data use, context management over extended tasks, uncertainty handling, and evaluation across multiple steps
+
     - title: Senior Computational Geoscientist
       institution: Zanskar Geothermal & Minerals, USA
-      year: Oct 2024 - Present
+      year: Oct 2024 - Aug 2026
       description:
-        - Prioritize drilling targets by fusing finite-element thermal simulations with ML ranking to reduce prospect uncertainty and raise decision confidence
-        - Design drilling target prioritization via acquisition-function-based ranking (success rate, expected improvement, upper confidence bound) over probabilistic subsurface temperature forecasts; deliver prioritized drilling recommendations with integrated techno-economic screening
-        - Calibrate 3D finite-element thermal models to well logs and geophysics; history match field observations and produce P10/P50/P90 temperature/flow forecasts for decision support
-        - Technical lead for the geothermal modeling codebase&#58; own internal repositories, establish code review, unit tests, and CI/CD; manage releases to ensure reproducible modeling across teams
-        - Operationalize data flows (Python, SQL/Snowflake, Git, GCP) with versioned ETL for site and simulation data, standardizing provenance and enabling dependable reruns
-        - Ship decision-ready maps and briefs to subsurface teams and leadership, streamlining cross-functional reviews and recommendations
+        - Owned the subsurface-modeling codebase for 3D geological and thermal models used in geothermal exploration
+        - Built data pipelines and scientific-software workflows for fault geometry, stratigraphy, and finite-element thermal simulation
+        - Calibrated models against well and geophysical data; quantified uncertainty and used optimization to support well targeting
 
     - title: Postdoctoral Researcher
       institution: Lawrence Berkeley National Laboratory, USA
@@ -92,7 +96,7 @@
       description:
         - Cum Laude
     - title: B.Sc. in Geological Sciences
-      institution: Free University of Brussels, Belgium
+      institution: Université libre de Bruxelles, Belgium
       year: 2010 - 2014
       description:
         - Cum Laude
@@ -166,4 +170,3 @@
       year: 2016 - 2019
       description:
         - Mathematics and Physics for university students
-

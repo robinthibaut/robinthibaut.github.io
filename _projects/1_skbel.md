@@ -10,18 +10,18 @@ related_publications: true
 
 ## SKBEL: Bayesian Evidential Learning Framework
 
-**SKBEL** is a Python framework for **Bayesian Evidential Learning (BEL)** built on top of scikit-learn. It provides tools for experimental design and uncertainty quantification in geosciences and engineering applications.
+**SKBEL** is a PhD-era Python framework for **Bayesian Evidential Learning (BEL)** built on top of scikit-learn. It records research software for experimental design and uncertainty quantification in geosciences and engineering applications.
 
 ### Key Features
 
 - **Bayesian Experimental Design**: Minimize posterior uncertainty by optimally selecting measurement locations
 - **Integration with scikit-learn**: Leverage the extensive ML ecosystem while maintaining scientific rigor
 - **Geoscience Applications**: Specifically designed for subsurface characterization and monitoring
-- **Open Source**: Fully documented and maintained on GitHub
+- **Open Source**: The historical research code remains available on GitHub
 
 ### Applications
 
-The framework has been successfully applied to:
+The framework was applied during the associated research to:
 
 - **Wellhead Protection Area Design**: Optimizing monitoring well placement for groundwater protection
 - **Temperature Monitoring**: Comparing wells vs. geophysical data for 4D temperature field monitoring
